@@ -7,16 +7,13 @@ A high-performance AI Vision System for real-time video streaming, multi-object 
 ## Screenshots and Visual Demonstration
 
 ### Live System Working Demo
-![Live Working Demo](images/full-working.gif)
+![Live Working Demo](assets/full-working.gif)
 
 ### Object Detection Dashboard and Active Class Breakdown
-![Object Detection Dashboard](images/home-screen-list.jpg)
+![Object Detection Dashboard](assets/home-screen-list.jpg)
 
 ### ESP32 Hardware Controls and Camera Settings
-![ESP32 Hardware Controls](images/home-settings.jpg)
-
-### Stream Viewport and Bounding Box Detection
-![Stream Viewport](images/initial-capture.jpg)
+![ESP32 Hardware Controls](assets/home-settings.jpg)
 
 ---
 
